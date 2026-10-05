@@ -1,1 +1,1 @@
-# web-technologies-DevOps
+# web-technologies-assignment
